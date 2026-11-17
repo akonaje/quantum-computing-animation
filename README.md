@@ -1,6 +1,6 @@
 # Quantum Computing
 
-An animated introduction to quantum computing, created using Python and Manim, for COM 217 (Science Writing & Presentation). Missing some scenes, and uploaded without voiceover, script, and outro sequence.
+An animated introduction to quantum computing, created using Python and Manim, for COM 217 (Science Writing & Presentation). Missing some scenes (found in the media folder), and uploaded without voiceover, script, and outro sequence.
 
 
 
