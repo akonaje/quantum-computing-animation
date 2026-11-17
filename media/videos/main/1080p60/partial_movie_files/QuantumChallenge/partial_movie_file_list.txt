@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/amrituh/quant/media/videos/main/1080p60/partial_movie_files/QuantumChallenge/3977891868_742077987_223132457.mp4'
+file 'file:/Users/amrituh/quant/media/videos/main/1080p60/partial_movie_files/QuantumChallenge/2852726489_3201849554_3844246692.mp4'
+file 'file:/Users/amrituh/quant/media/videos/main/1080p60/partial_movie_files/QuantumChallenge/2852726489_776067082_3039478593.mp4'
+file 'file:/Users/amrituh/quant/media/videos/main/1080p60/partial_movie_files/QuantumChallenge/2852726489_2704686740_3247263869.mp4'
+file 'file:/Users/amrituh/quant/media/videos/main/1080p60/partial_movie_files/QuantumChallenge/2852726489_257664855_3550721727.mp4'
+file 'file:/Users/amrituh/quant/media/videos/main/1080p60/partial_movie_files/QuantumChallenge/2852726489_2704686740_1489108720.mp4'
+file 'file:/Users/amrituh/quant/media/videos/main/1080p60/partial_movie_files/QuantumChallenge/2852726489_734800497_1844417112.mp4'
+file 'file:/Users/amrituh/quant/media/videos/main/1080p60/partial_movie_files/QuantumChallenge/2852726489_3635025367_171604110.mp4'
+file 'file:/Users/amrituh/quant/media/videos/main/1080p60/partial_movie_files/QuantumChallenge/2852726489_2526317339_192819939.mp4'

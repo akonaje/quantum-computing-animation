@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/amrituh/quant/media/videos/main/1080p60/partial_movie_files/QuantumImpact/3977891868_1555558009_223132457.mp4'
+file 'file:/Users/amrituh/quant/media/videos/main/1080p60/partial_movie_files/QuantumImpact/2852726489_2559421955_3852144082.mp4'
+file 'file:/Users/amrituh/quant/media/videos/main/1080p60/partial_movie_files/QuantumImpact/2852726489_2647787024_1270399832.mp4'
+file 'file:/Users/amrituh/quant/media/videos/main/1080p60/partial_movie_files/QuantumImpact/2852726489_104593722_3723803279.mp4'
